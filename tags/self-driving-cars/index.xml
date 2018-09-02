@@ -6,7 +6,7 @@
     <description>Recent content in Self Driving Cars on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Mon, 27 Aug 2018 16:11:24 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2017 16:11:24 +0100</lastBuildDate>
     
 	<atom:link href="/tags/self-driving-cars/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,20 +14,11 @@
     <item>
       <title>Using Computer Vision to Find Lane Lines on Road</title>
       <link>/posts/using-computer-vision-to-find-lane-lines-on-road/</link>
-      <pubDate>Mon, 27 Aug 2018 16:11:24 +0100</pubDate>
+      <pubDate>Tue, 25 Jul 2017 16:11:24 +0100</pubDate>
       
       <guid>/posts/using-computer-vision-to-find-lane-lines-on-road/</guid>
       <description>Identifying lanes on the road is a common task performed by all human drivers to ensure their vehicles are within lane constraints when driving, so as to make sure traffic is smooth and minimize chances of collisions with other cars due to lane misalignment.
 Similarly, it is a critical task for an autonomous vehicle to perform. It turns out that recognizing lane markings on roads is possible using well known computer vision techniques.</description>
-    </item>
-    
-    <item>
-      <title>Recognising Traffic Signs 98% Accuracy</title>
-      <link>/posts/recognising-traffic-signs-98-pc-accuracy/</link>
-      <pubDate>Thu, 24 Aug 2017 07:52:19 +0100</pubDate>
-      
-      <guid>/posts/recognising-traffic-signs-98-pc-accuracy/</guid>
-      <description>Traffic signs are an integral part of our road infrastructure. They provide critical information, sometimes compelling recommendations, for road users, which in turn requires them to adjust their driving behaviour to make sure they adhere with whatever road regulation currently enforced. Without such useful signs, we would most likely be faced with more accidents, as drivers would not be given critical feedback on how fast they could safely go, or informed about road works, sharp turn, or school crossings ahead.</description>
     </item>
     
   </channel>
